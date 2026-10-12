@@ -1,8 +1,8 @@
 APRS Beacon User Guide
-Script: aprs_baken.py · October 2026
+Script: aprs_bakens.py · October 2026
 1. What does the script do?
    
-With aprs_baken.py you periodically send an APRS position report to the APRS-IS network from one or more fixed positions. The script is intended for beacons that do not move, for example a clubhouse, a scout location or a fixed station. For each beacon you set the callsign, position, comment, symbol, interval and an optional time window, and you can prepare as many beacons as you like. Once the input is complete, the script opens a separate tab on aprs.fi for each beacon, so you can immediately check whether the beacon becomes visible.
+With aprs_bakens.py you periodically send an APRS position report to the APRS-IS network from one or more fixed positions. The script is intended for beacons that do not move, for example a clubhouse, a scout location or a fixed station. For each beacon you set the callsign, position, comment, symbol, interval and an optional time window, and you can prepare as many beacons as you like. Once the input is complete, the script opens a separate tab on aprs.fi for each beacon, so you can immediately check whether the beacon becomes visible.
 
 2. Preparation
    
